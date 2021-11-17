@@ -7,9 +7,8 @@
 #### Another of the motivation to do this project is to help myself out with working and implementation of c concepts such as file handling and classes, functions and looping structures etc., as recently after learning C I implemented this beginner level mini project on calendar management. 
 
 #### A calendar is a tool that keeps every aspect of our life focused in one place, allowing you to worry less and accomplish more. Using the calendar is the best way to avoid procrastination and general tardiness. The Calendar applications contain the following fields and controls: 
- 
- 
-  • Calendar Date Field – Provides the current date or enables a user to select a date that he/she wants to view. 
-  • Calendar View Options – Enables a user to choose day view, week view and year view. 
-  • Calendar Selection – User can have multiple accounts synchronized to the device. Calendar Selection enables to choose the calendar account that he/she wants to view. 4 
-  • Calendar Controls – Provides controls for each individual calendar to set date, month or year details.
+
+ -• Calendar Date Field – Provides the current date or enables a user to select a date that he/she wants to view. 
+ -• Calendar View Options – Enables a user to choose day view, week view and year view. 
+ -• Calendar Selection – User can have multiple accounts synchronized to the device. Calendar Selection enables to choose the calendar account that he/she wants to view. 4 
+ -• Calendar Controls – Provides controls for each individual calendar to set date, month or year details.
