@@ -15,10 +15,17 @@
 
 Sample impages of the project:
 ![PRJ](https://user-images.githubusercontent.com/76397085/142154236-cc53b2f8-93c5-43dd-94d5-9fed7c4a8bab.PNG)
+
 ![prj_1 scren](https://user-images.githubusercontent.com/76397085/142154245-cca4ab7b-8db6-4d3a-bc08-8973e302974d.PNG)
+
 ![prj_2 screen](https://user-images.githubusercontent.com/76397085/142154249-a034411a-7ff7-40c4-bea0-8a8c40008ea7.PNG)
+
 ![prj_3 screen](https://user-images.githubusercontent.com/76397085/142154251-50933462-702a-4b4f-bb93-bebedb75cc1e.PNG)
+
 ![prj_4](https://user-images.githubusercontent.com/76397085/142154252-b3ca0bec-60e7-416e-aeca-44569772515f.PNG)
+
 ![prj_6](https://user-images.githubusercontent.com/76397085/142154254-8c543355-c986-4bb0-b4f9-736914345717.PNG)
+
 ![prj_8](https://user-images.githubusercontent.com/76397085/142154257-68f2564d-d149-4bcb-b445-1025a0be6b8b.PNG)
+
 ![prj5](https://user-images.githubusercontent.com/76397085/142154260-8501edf1-2a7b-4e8b-b823-7a2cfd42254c.PNG)
